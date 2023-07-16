@@ -1,2 +1,0 @@
-C - Hello, World scripts
-
