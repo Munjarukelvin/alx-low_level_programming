@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 4d6cbdb6ba5c0eb17e400360efc1f1500646d294
 /*
  * File: 101-natural.c
  * Auth: vincent kip
